@@ -181,13 +181,21 @@ I am a cybersecurity engineer and threat researcher specializing in **Digital Fo
 
 ---
 
-### 📊 GitHub Telemetry
+### 📊 GitHub Telemetry & Contribution Matrix
 
 <div align="center">
+
+  <!-- Yearly Contribution Matrix Mapping -->
+  <a href="https://github.com/xElessaway">
+    <img src="https://ghchart.rshah.org/10b981/xElessaway" alt="xElessaway Contribution Matrix" width="100%" />
+  </a>
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xElessaway&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9" alt="xElessaway GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xElessaway&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="xElessaway GitHub Stats" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xElessaway&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages" />
@@ -195,7 +203,7 @@ I am a cybersecurity engineer and threat researcher specializing in **Digital Fo
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xElessaway&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=xElessaway&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
