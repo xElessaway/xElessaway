@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0f172a,70:047857,100:10b981&height=220&section=header&text=Ahmed%20Elessaway&fontSize=46&fontColor=10b981&animation=fadeIn&fontAlignY=38&desc=Threat%20Intelligence%20%7C%20DFIR%20%7C%20Certified%20CyberDefender%20(CCD)&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="Ahmed Elessaway Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0f172a,70:047857,100:10b981&height=220&section=header&text=Ahmed%20Elessaway&fontSize=46&fontColor=10b981&animation=fadeIn&fontAlignY=38&desc=DFIR%20%7C%20Threat%20Intelligence%20%7C%20eCIR%20%C2%B7%20CARTP%20%C2%B7%20CCD%20%C2%B7%20ArcX&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="Ahmed Elessaway Header" />
 
   <br/>
 
   <!-- Dynamic Animated Typing Subtitle -->
-  <a href="https://xelessaway.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=10B981&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%9B%A1%EF%B8%8F+Threat+Intelligence+%26+DFIR+Engineer;%F0%9F%8E%AF+Certified+CyberDefender+(CCD);%F0%9F%94%8D+Adversary+C2+Triage+%26+Memory+Forensics;%E2%9A%A1+Creator+of+ShadowExplorerX;%F0%9F%8F%86+2nd+Place+CyCTF'25+%26+Arab+Cyberwar+Games" alt="Typing Animation" />
+  <a href="https://xelessaway.me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=10B981&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%9B%A1%EF%B8%8F+Threat+Intelligence+%26+DFIR+Engineer;%F0%9F%8E%AF+eCIR+%C2%B7+CARTP+%C2%B7+CCD+%C2%B7+ArcX+101;%F0%9F%94%8D+Adversary+C2+Triage+%26+Threat+Hunting;%E2%9A%A1+Creator+of+ShadowExplorerX;%F0%9F%8F%86+2nd+Place+CyCTF%2725+%26+Arab+Cyberwar+Games" alt="Typing Animation" />
   </a>
 
   <p align="center">
@@ -16,8 +16,8 @@
 
   <!-- Connect & Social Badges -->
   <p align="center">
-    <a href="https://xelessaway.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Website-xelessaway.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <a href="https://xelessaway.me" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Website-xelessaway.me-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://www.linkedin.com/in/ahmedelessaway/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Elessaway-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,8 +28,21 @@
     <a href="https://xelessaway.medium.com/" target="_blank">
       <img src="https://img.shields.io/badge/Medium-@xelessaway-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
+  </p>
+
+  <!-- Featured Certifications Stack -->
+  <p align="center">
+    <a href="https://elearnsecurity.com/" target="_blank">
+      <img src="https://img.shields.io/badge/eCIR-Certified_Incident_Responder-00B4D8?style=flat-square&logo=target&logoColor=white" alt="eCIR" />
+    </a>
+    <a href="https://www.alteredsecurity.com/cartp" target="_blank">
+      <img src="https://img.shields.io/badge/CARTP-AD_Red_Team_Professional-DC2626?style=flat-square&logo=windows&logoColor=white" alt="CARTP" />
+    </a>
     <a href="https://cyberdefenders.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Certified-CyberDefender_(CCD)-059669?style=for-the-badge&logo=shield&logoColor=white" alt="Certified CyberDefender" />
+      <img src="https://img.shields.io/badge/CCD-Certified_CyberDefender-059669?style=flat-square&logo=shield&logoColor=white" alt="CCD" />
+    </a>
+    <a href="https://arcx.io/" target="_blank">
+      <img src="https://img.shields.io/badge/ArcX_101-Threat_Intelligence-8B5CF6?style=flat-square&logo=radar&logoColor=white" alt="ArcX 101" />
     </a>
   </p>
 
@@ -37,28 +50,16 @@
 
 ---
 
-### 🛡️ Operator Dossier // `whoami`
+### 👤 About Me // Focus & Methodology
 
-```bash
-┌──(investigator㉿elessaway)-[~/profile/dossier]
-└─$ cat operator_intel.json
-{
-  "name": "Ahmed Elessaway",
-  "handle": "xElessaway",
-  "credentials": [
-    "Certified CyberDefender (CCD)"
-  ],
-  "focus_areas": [
-    "Digital Forensics & Incident Response (DFIR)",
-    "Cyber Threat Intelligence (CTI)",
-    "Adversary C2 & Open Directory Triage",
-    "Memory & Disk Forensics (Volatility, SIFT)",
-    "OSINT Investigations & Infrastructure Tracking"
-  ],
-  "current_mission": "Developing automated sandboxed tooling and publishing real-world CTI case studies",
-  "operational_status": "Active // Ready for defensive deployment"
-}
-```
+> *"Evidence-driven analysis: transforming raw telemetry, scattered artifacts, and adversary tradecraft into high-confidence detection and actionable defensive intelligence."*
+
+I am a cybersecurity engineer and threat researcher specializing in **Digital Forensics & Incident Response (DFIR)**, **Cyber Threat Intelligence (CTI)**, and **Adversary Infrastructure Tracking**. My work bridges deep investigative analysis and defensive engineering:
+
+- 🔍 **Incident Response & Threat Hunting:** Investigating intrusion lifecycles, analyzing compromised endpoints, and tracking fast-flux / adversary staging servers before payloads detonate.
+- 🎯 **Adversary Emulation & Active Directory Security:** Leveraging red-team attack vectors (Kerberos abuse, ACL manipulation, privilege escalation) to build robust detection engineering controls.
+- 🔬 **Memory & Disk Forensics:** Carving forensic artifacts, rootkit triage, and process memory inspection to reconstruct execution timelines and adversary attribution.
+- 🛠️ **Defensive Tool Engineering:** Developing automated sandboxed tools (like [ShadowExplorerX](https://github.com/xElessaway/ShadowExplorerX)) to allow security analysts to inspect malicious infrastructure safely.
 
 ---
 
@@ -84,16 +85,16 @@
         High-speed, sandboxed web browser extension designed for threat intelligence analysts, incident responders, and malware researchers to safely inspect, search, and triage exposed C2 open directories, web shells, staging servers, and payload drops without executing or downloading untrusted files to your host machine.
       </p>
       <ul>
-        <li>🛡️ <strong>Zero Host Execution:</strong> Neutralizes drive-by downloads and telemetry leakage.</li>
-        <li>⚡ <strong>High-Speed Regex Engine:</strong> Instant regex searches, case toggle, and word-boundary hunts.</li>
-        <li>📝 <strong>Syntax-Preserving Preview Modal:</strong> Safely inspect scripts (<code>.py</code>, <code>.sh</code>, <code>.ps1</code>) & configs in-browser.</li>
-        <li>🌓 <strong>Dual Tactical Themes:</strong> Seamless Dark & White forensic console modes.</li>
+        <li>🛡️ <strong>Zero Host Execution:</strong> Intercepts raw directory responses and neutralizes drive-by downloads and telemetry leakage.</li>
+        <li>⚡ <strong>High-Speed Regex Engine:</strong> Instant regular expression queries, case toggle, and word-boundary hunts.</li>
+        <li>📝 <strong>Syntax-Preserving Preview Modal:</strong> Safely inspect scripts (<code>.py</code>, <code>.sh</code>, <code>.ps1</code>) & configs directly in-browser.</li>
+        <li>🌓 <strong>Dual Tactical Themes:</strong> Built-in Dark & White forensic console themes.</li>
       </ul>
       <p>
         <a href="https://github.com/xElessaway/ShadowExplorerX">
           <strong>View Repository »</strong>
         </a> · 
-        <a href="https://xelessaway.github.io/tools/shadowexplorerx/">
+        <a href="https://xelessaway.me/tools/shadowexplorerx/">
           <strong>Read Tool Documentation »</strong>
         </a>
       </p>
@@ -105,25 +106,77 @@
 
 ### 🧰 Investigative Arsenal & Tech Stack
 
-<div align="center">
+<details open>
+<summary><b>🔍 Threat Intelligence, DFIR & Forensics</b></summary>
+<br/>
 
-| Domain | Arsenal & Technologies |
-| :--- | :--- |
-| **CTI & DFIR** | <img src="https://img.shields.io/badge/Volatility-000000?style=flat-square&logo=linux&logoColor=10b981" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logo=target&logoColor=red" /> <img src="https://img.shields.io/badge/YARA-0A85EA?style=flat-square&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/SIFT_Workstation-1A1A1A?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/CyberDefenders-CCD-10b981?style=flat-square&logo=shield&logoColor=white" /> |
-| **OSINT & Recon** | <img src="https://img.shields.io/badge/SpiderFoot-FF6B00?style=flat-square&logo=radar&logoColor=white" /> <img src="https://img.shields.io/badge/Axiom-111111?style=flat-square&logo=terminal&logoColor=10b981" /> <img src="https://img.shields.io/badge/Shodan-D32F2F?style=flat-square&logo=shodan&logoColor=white" /> <img src="https://img.shields.io/badge/Censys-000000?style=flat-square&logo=search&logoColor=white" /> <img src="https://img.shields.io/badge/Maltego-388E3C?style=flat-square&logo=graph&logoColor=white" /> |
-| **Languages & Scripting** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **Platforms & Ops** | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Fedora_DFIR-51A2DA?style=flat-square&logo=fedora&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/WebExtensions_API-00B4B4?style=flat-square&logo=firefoxbrowser&logoColor=white" /> |
+<p align="left">
+  <img src="https://img.shields.io/badge/Volatility_3-000000?style=for-the-badge&logo=linux&logoColor=10b981" alt="Volatility 3" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=target&logoColor=red" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/YARA-0A85EA?style=for-the-badge&logo=codeforces&logoColor=white" alt="YARA" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/SIFT_Workstation-1A1A1A?style=for-the-badge&logo=ubuntu&logoColor=white" alt="SIFT" />
+  <img src="https://img.shields.io/badge/CyberDefenders-CCD-059669?style=for-the-badge&logo=shield&logoColor=white" alt="CyberDefenders" />
+  <img src="https://img.shields.io/badge/CyberChef-A4C639?style=for-the-badge&logo=chef&logoColor=black" alt="CyberChef" />
+</p>
+</details>
 
-</div>
+<details open>
+<summary><b>🎯 Active Directory & Adversary Tradecraft (CARTP / Red Team)</b></summary>
+<br/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/BloodHound-D83B01?style=for-the-badge&logo=neo4j&logoColor=white" alt="BloodHound" />
+  <img src="https://img.shields.io/badge/Mimikatz-24292E?style=for-the-badge&logo=powershell&logoColor=10b981" alt="Mimikatz" />
+  <img src="https://img.shields.io/badge/Impacket-111827?style=for-the-badge&logo=python&logoColor=white" alt="Impacket" />
+  <img src="https://img.shields.io/badge/Kerberos_Tradecraft-B91C1C?style=for-the-badge&logo=keycdn&logoColor=white" alt="Kerberos" />
+  <img src="https://img.shields.io/badge/C2_Triage_%26_Hunting-0F172A?style=for-the-badge&logo=terminal&logoColor=10b981" alt="C2" />
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 OSINT & Threat Reconnaissance</b></summary>
+<br/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SpiderFoot-FF6B00?style=for-the-badge&logo=radar&logoColor=white" alt="SpiderFoot" />
+  <img src="https://img.shields.io/badge/Shodan-D32F2F?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Censys-000000?style=for-the-badge&logo=search&logoColor=white" alt="Censys" />
+  <img src="https://img.shields.io/badge/Maltego-388E3C?style=for-the-badge&logo=graph&logoColor=white" alt="Maltego" />
+  <img src="https://img.shields.io/badge/Axiom-111111?style=for-the-badge&logo=terminal&logoColor=10b981" alt="Axiom" />
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Development, Scripting & Platforms</b></summary>
+<br/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Fedora_DFIR-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora DFIR" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+</details>
 
 ---
 
-### 🏆 Honors, Competitions & Community
+### 🏆 Honors, Competitions & Accreditations
 
+- 🎓 **Top Professional Certifications:**
+  - **eCIR** — eLearnSecurity Certified Incident Responder
+  - **CARTP** — Certified Active Directory Red Team Professional (Altered Security)
+  - **CCD** — Certified CyberDefender (CyberDefenders)
+  - **ArcX 101** — Cyber Threat Intelligence Practitioner (ArcX)
 - 🥈 **2nd Place** — **CyCTF '25 Finals**: National finals qualification and advanced digital forensics championship.
 - 🥈 **2nd Place** — **Arab Cyberwar Games**: Regional championship covering multi-stage threat hunting and incident response.
 - 🏅 **4th Place** — **EG-CERT CTF Finals & CSC-1**: National CERT cybersecurity competition across DFIR and investigative tracks.
-- 🛡️ **Certified CyberDefender (CCD)**: Rigorous hands-on credential in DFIR, Threat Hunting, and Perimeter Defense.
 - 👥 **200+ Attendees Trained**: Delivered hands-on practical instruction in OSINT methodologies and digital forensics.
 
 ---
@@ -152,10 +205,10 @@
 
 ### 🔬 Selected Research & Field Investigations
 
-- 🌐 [**Dissecting Exposed Adaptix C2 and Rogue MySQL Exploitation Infrastructure**](https://xelessaway.github.io/blog/dissecting-exposed-adaptix-c2-and-rogue-mysql-exploitation-infrastructure/) — Real-world analysis of exposed C2 panels and active attacker staging servers.
-- 🎯 [**Exposed QuickDAV Malware Distribution & Remcos RAT Infrastructure**](https://xelessaway.github.io/blog/exposed-quickdav-malware-distribution-repository-and-remcos-rat-infrastructure/) — Deep-dive triage of distributed payload repositories and Remcos RAT persistence.
-- ☁️ [**Imikom Agent: Analyzing Cloud Dead Drop C2 Tradecraft**](https://xelessaway.github.io/blog/imikom-agent-analyzing-github-and-google-sheets-cloud-dead-drop-c2-tradecraft/) — Reverse engineering GitHub & Google Sheets communication channels.
-- 💰 [**Uncovering a $100M Crypto Fraud Network via OSINT**](https://xelessaway.github.io/blog/one-facebook-message-exposed-a-100m-crypto-fraud-network-heres-how/) — Tracing digital footprints, entity graph pivoting, and laundering infrastructure.
+- 🌐 [**Dissecting Exposed Adaptix C2 and Rogue MySQL Exploitation Infrastructure**](https://xelessaway.me/blog/dissecting-exposed-adaptix-c2-and-rogue-mysql-exploitation-infrastructure/) — Real-world analysis of exposed C2 panels and active attacker staging servers.
+- 🎯 [**Exposed QuickDAV Malware Distribution & Remcos RAT Infrastructure**](https://xelessaway.me/blog/exposed-quickdav-malware-distribution-repository-and-remcos-rat-infrastructure/) — Deep-dive triage of distributed payload repositories and Remcos RAT persistence.
+- ☁️ [**Imikom Agent: Analyzing Cloud Dead Drop C2 Tradecraft**](https://xelessaway.me/blog/imikom-agent-analyzing-github-and-google-sheets-cloud-dead-drop-c2-tradecraft/) — Reverse engineering GitHub & Google Sheets communication channels.
+- 💰 [**Uncovering a $100M Crypto Fraud Network via OSINT**](https://xelessaway.me/blog/one-facebook-message-exposed-a-100m-crypto-fraud-network-heres-how/) — Tracing digital footprints, entity graph pivoting, and laundering infrastructure.
 
 ---
 
