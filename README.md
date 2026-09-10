@@ -185,7 +185,16 @@ I am a cybersecurity engineer and threat researcher specializing in **Digital Fo
 
 <div align="center">
 
-  <!-- Yearly Contribution Matrix Mapping -->
+  <!-- Animated Contribution Snake Eating the 451 Dots -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xElessaway/xElessaway/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xElessaway/xElessaway/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/xElessaway/xElessaway/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Yearly Contribution Matrix Heatmap -->
   <a href="https://github.com/xElessaway">
     <img src="https://ghchart.rshah.org/10b981/xElessaway" alt="xElessaway Contribution Matrix" width="100%" />
   </a>
